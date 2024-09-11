@@ -1,0 +1,6 @@
+idServiços,Nome_servico,Preco_servico,Quartos_idQuartos
+1,Café da manhã,30.0,1
+2,Lavanderia,50.0,2
+3,Spa,100.0,3
+4,Academia,20.0,4
+5,Wi-Fi,0.0,5

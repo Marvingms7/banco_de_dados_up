@@ -1,0 +1,6 @@
+idQuartos,Numero_quarto,Tipo_quarto,Preco_diaria
+1,101,Simples,150.0
+2,102,Simples,150.0
+3,103,Duplo,200.0
+4,201,Suíte,350.0
+5,202,Luxo,500.0
